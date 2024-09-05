@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Randhir-Yadav
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
-- 📫 How to reach me https://www.linkedin.com/in/randhir-yadav-ab2087213/
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m 
 
 
 <!---
